@@ -1,0 +1,10 @@
+
+/**
+start login page
+ */
+.login-form , .register-form , .upload-form , .table{
+    margin: 70px auto;
+}
+.upload-form .form-text{
+    margin-top: -15px;
+}
